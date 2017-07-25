@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:lot;datatype:blob,name:house_design;datatype:blob,name:land size;datatype:blob,name:package_price;datatype:blob,name:type;datatype:blob,name:bedroom;datatype:blob,name:studio;datatype:blob,name:house_size;datatype:blob,name:opal_upgrades;datatype:blob,name:pdf;datatype:blob,name:category;datatype:blob,name:house_area;datatype:blob,name:star;datatype:blob" />
+</info>
